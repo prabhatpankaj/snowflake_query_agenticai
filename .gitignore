@@ -1,0 +1,42 @@
+.env
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# Distribution / packaging
+.Python
+dist/
+build/
+*.egg-info/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Testing
+.coverage
+.tox/
+.nox/
+pytest_cache/
+
+# Docker
+*.tar
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Python notebook checkpoints
+.ipynb_checkpoints/
+
+# Mermaid graph files
+workflow_graph.mmd
+workflow_graph.png
+
+dbdata/

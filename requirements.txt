@@ -1,0 +1,17 @@
+beautifulsoup4==4.12.3
+langchain-google-vertexai==2.0.10
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-core==0.3.29
+langgraph==0.2.62
+langgraph-checkpoint==2.0.9
+langgraph-checkpoint-mongodb==0.1.0
+langgraph-sdk==0.1.51
+python-decouple==3.8
+termcolor==2.5.0
+Flask==3.1.0
+waitress==3.0.2
+faiss-cpu==1.9.0.post1
+huggingface_hub==0.28.0
+youtube-transcript-api==0.6.3
+snowflake-connector-python==3.13.2
